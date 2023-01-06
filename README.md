@@ -1,4 +1,4 @@
-# Portfolio
+# Jason Salas :: portfolio
 
 Hello and welcome to a snapshot of what my brain has produced over the years. My writing style has always emphasized professionalism and clarity...with high entertainment value. As a journalist, I seek the truth - but I also consider it a win if by the time the audience completes the end of my last paragraph, they’re thinking and/or laughing and/or pissed off. (And as a marketer, I want people hurriedly reaching for their credit card.) 
 
