@@ -25,7 +25,7 @@ Hello and welcome to a snapshot of what my brain has produced over the years. My
 
 **SPORTS**
 
-- [Sports journalism](https://www.youtube.com/playlist?list=PLTpfHeMH-xLTzsET_pr6ynbZSJ4Sih08X) - stories, insights and perspectives on athletics that I shot, wrote &amp; edited. Stories range from investigative to human interest to highlights, from pro and college levels to local.
+- [Sports journalism](https://www.youtube.com/playlist?list=PLTpfHeMH-xLTzsET_pr6ynbZSJ4Sih08X) - stories, insights and perspectives on athletics that I shot, wrote, voiced &amp; edited. Stories range from investigative to human interest to highlights, from pro and college levels to local.
 
 - [_MFL Rocks!_](http://jasonsalas.com/mflrocks/mflrocks2011.pdf) - My season-long chronology covering the trials, tribulations and triumphs of a semi-pro football league
 
