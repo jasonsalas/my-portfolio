@@ -22,7 +22,7 @@ Hello and welcome to a snapshot of what my brain has produced over the years. My
 - [Teaching machine learning to compose Depeche Mode lyrics](https://medium.com/@jasonsalas_89883/teaching-machine-learning-to-compose-depeche-mode-lyrics-21e92a706cbb) - AI that composes lyrics based on the band's discography 
 
 **JOURNALISM**
-- [Discover Blac Heritage](https://www.youtube.com/playlist?list=PLZojCMmMkWJ3yV2K6phOEXr9p0Yf_KlM9) - Series for Black History Month 2023 profiling voices sharing their culture and perspective with their transplanted island home.
+- [Discover Black Heritage](https://www.youtube.com/playlist?list=PLZojCMmMkWJ3yV2K6phOEXr9p0Yf_KlM9) - Series for Black History Month 2023 profiling voices sharing their culture and perspective with their transplanted island home.
 
 
 
